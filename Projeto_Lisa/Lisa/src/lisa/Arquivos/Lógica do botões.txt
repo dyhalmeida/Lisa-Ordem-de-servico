@@ -1,0 +1,43 @@
+1º Todos os campos são setEnabled(false)
+
+2 - Botão Editar
+{
+    Botão deletar = falso
+    Botão editar = falso
+    Botão atualizar = verdadeiro
+    Campo de pesquisa = falso
+    Todos os demais campos = verdadeiro
+    Botão profissional = verdadeiro
+    Botão cliente = Verdadeiro
+}
+
+3 - Botão Deletar
+{
+    Botão editar = Falso
+    Botão deletar = Falso
+    Campo de pesquisa = Verdade
+}
+
+4 - Botão atualizar
+{
+    Campo de pesquisa = verdade
+    Botão atualizar = falso
+    Botão Profissional = falso
+    Botão Cliente = falso
+    Todos os campos = falso menos profissional e cliente
+}
+
+5 - Botão cancelar
+{
+    dispose()
+}
+
+6 - Clique na Tabela
+{
+    Botão editar = verdade
+    Botão deletar = verdade
+    Botão atualizar = falso
+    Botão profissional e cliente = false
+    Todos os campos = falso
+}
+
